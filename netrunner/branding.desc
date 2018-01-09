@@ -11,7 +11,7 @@ strings:
     bootloaderEntryName: Netrunner Rolling
 
 images:
-    productLogo:         "netrunner-logo.png"
+    productLogo:         "netrunner-icon.png"
     productIcon:         "netrunner-icon.png"
 
 slideshow:               "show.qml"
