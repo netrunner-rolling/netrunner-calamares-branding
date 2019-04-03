@@ -1,5 +1,6 @@
 ---
 componentName:  netrunner
+windowExpanding: noexpand
 
 strings:
     productName:         Netrunner
