@@ -1,7 +1,7 @@
 ---
 componentName:  netrunner
 windowExpanding: noexpand
-windowSize: 800px,590px
+windowSize: 800px,600px
 
 strings:
     productName:         Netrunner
